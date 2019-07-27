@@ -1,4 +1,5 @@
 from datetime import datetime
 import sys
 import os
-print(sys.path)
+print(datetime.now())
+print(os.listdir())
